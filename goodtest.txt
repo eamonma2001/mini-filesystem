@@ -1,0 +1,18 @@
+mkdir dir1
+cd dir1
+mkdir dir2
+cd dir2
+make file1
+make dir2
+mkdir dir2
+dpd
+dpbm
+dpi 0
+dpi 1
+dpi 2
+dpbl 0
+dpbl 1
+dpbl 2
+dpbl 3
+q
+Footer
